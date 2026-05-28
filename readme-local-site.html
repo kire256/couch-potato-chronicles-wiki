@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Couch Potato Chronicles local wiki site · Couch Potato Chronicles Wiki</title>
+  <meta name="description" content="Local browser-friendly wiki for the Couch Potato Chronicles project files.">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./site.js"></script>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <a href="./index.html">Couch Potato Chronicles</a>
+      </div>
+      <p class="sidebar-copy">Local wiki browser for your markdown files.</p>
+      <nav>
+        <ul class="nav-list">
+          <li><a class="nav-link" href="./index.html">Couch Potato Chronicles Wiki</a></li>
+<li><a class="nav-link" href="./story-elements-breakdown.html">Story Elements Breakdown</a></li>
+<li><a class="nav-link" href="./characters.html">Characters</a></li>
+<li><a class="nav-link" href="./locations.html">Locations</a></li>
+<li><a class="nav-link" href="./spells.html">Spells</a></li>
+<li><a class="nav-link" href="./skills.html">Skills</a></li>
+<li><a class="nav-link" href="./classes.html">Classes</a></li>
+<li><a class="nav-link" href="./notable-quotes.html">Notable Quotes</a></li>
+<li><a class="nav-link" href="./concepts-lore.html">Concepts &amp; Lore</a></li>
+<li><a class="nav-link" href="./races.html">Races</a></li>
+<li><a class="nav-link" href="./crisis-wiki-draft.html">Couch Potato Crisis wiki draft</a></li>
+<li><a class="nav-link" href="./relationships.html">Couch Potato Chronicles – Character Relationship Chart</a></li>
+<li><a class="nav-link" href="./timeline.html">Timeline</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <main class="content-shell">
+      <header class="page-header">
+        <div>
+          <p class="eyebrow">Couch Potato Chronicles wiki</p>
+          <h1>Couch Potato Chronicles local wiki site</h1>
+          <p class="source-path">Source: README-local-site.md</p>
+        </div>
+        <div class="header-actions">
+          <input id="page-filter" type="search" placeholder="Filter pages..." aria-label="Filter pages">
+        </div>
+      </header>
+      <section class="content-grid">
+        <article class="article-card markdown-body">
+          <h1 id="couch-potato-chronicles-local-wiki-site" tabindex="-1"><a class="header-anchor" href="#couch-potato-chronicles-local-wiki-site">Couch Potato Chronicles local wiki site</a></h1>
+<p>This folder now includes a small local site generator for the markdown wiki files.</p>
+<p>Quick start:</p>
+<ol>
+<li>
+<p>Double-click <code>start-wiki-site.bat</code></p>
+<ul>
+<li>installs npm dependencies</li>
+<li>builds the site into <code>site/</code></li>
+<li>starts a local server on <a href="http://127.0.0.1:8080">http://127.0.0.1:8080</a></li>
+</ul>
+</li>
+<li>
+<p>Double-click <code>watch-wiki-site.bat</code></p>
+<ul>
+<li>watches <code>*.md</code> and <code>site-assets/*</code></li>
+<li>rebuilds the site when files change</li>
+</ul>
+</li>
+</ol>
+<p>Main commands:</p>
+<ul>
+<li><code>npm run build</code>   → generate static HTML into <code>site/</code></li>
+<li><code>npm run watch</code>   → auto-regenerate on file changes</li>
+<li><code>npm run serve</code>   → browse the generated site locally</li>
+<li><code>npm run dev</code>     → build once, then serve</li>
+</ul>
+<p>Generated pages:</p>
+<ul>
+<li><code>wiki.md</code> → <code>site/index.html</code></li>
+<li>other root markdown files each get their own page</li>
+<li><code>timeline.md</code> → <code>site/timeline.html</code> for the interactive chronology view</li>
+</ul>
+<p>Timeline notes:</p>
+<ul>
+<li>Timeline events currently live inside <code>timeline.md</code> as embedded JSON so the page stays self-contained.</li>
+<li>Use category <code>story-event</code> for on-page plot developments and <code>world-history</code> for older lore / setting milestones.</li>
+<li>Each event should include <code>sort</code>, <code>when</code>, <code>era</code>, <code>title</code>, <code>summary</code>, plus optional <code>details</code>, <code>characters</code>, <code>locations</code>, <code>tags</code>, and <code>references</code>.</li>
+<li>The generated page supports search, event expansion, jump navigation by era, and category filters for story-event vs world-history entries.</li>
+</ul>
+<p>Notes:</p>
+<ul>
+<li>Edit the markdown files in the project root.</li>
+<li>Re-run <code>npm run build</code> or keep <code>npm run watch</code> running.</li>
+<li>Styling lives in <code>site-assets/styles.css</code>.</li>
+<li>Client-side navigation filtering, Mermaid behavior, and timeline interactivity live in <code>site-assets/site.js</code>.</li>
+</ul>
+
+        </article>
+        <aside class="toc-card">
+          <h2>On this page</h2>
+          <ul class="toc"><li class="toc-level-1"><a href="#couch-potato-chronicles-local-wiki-site">Couch Potato Chronicles local wiki site</a></li></ul>
+        </aside>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

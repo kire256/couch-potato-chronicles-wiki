@@ -1,0 +1,1456 @@
+{
+  "title": "Couch Potato Chronicles Wiki",
+  "description": "Local browser-friendly wiki for the Couch Potato Chronicles project files.",
+  "generatedAt": "2026-05-28T23:32:55.790Z",
+  "pages": [
+    {
+      "title": "Couch Potato Chronicles Wiki",
+      "slug": "index",
+      "sourceFile": "wiki.md",
+      "navSlug": "index",
+      "includeInNav": true
+    },
+    {
+      "title": "Story Elements Breakdown",
+      "slug": "story-elements-breakdown",
+      "sourceFile": "wiki.md",
+      "navSlug": "story-elements-breakdown",
+      "includeInNav": true
+    },
+    {
+      "title": "Characters",
+      "slug": "characters",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": true
+    },
+    {
+      "title": "Ally",
+      "slug": "character-ally",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Charlotte",
+      "slug": "character-charlotte",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Magus Savik D",
+      "slug": "character-magus-savik-d",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Lorien Questgiver",
+      "slug": "character-lorien-questgiver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Lakuriel Questgiver",
+      "slug": "character-lakuriel-questgiver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Lyra Questgiver",
+      "slug": "character-lyra-questgiver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Ramon",
+      "slug": "character-ramon",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Paula",
+      "slug": "character-paula",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Lord Hempledon of Wilmarth",
+      "slug": "character-lord-hempledon-of-wilmarth",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Ernest and Sally Belly",
+      "slug": "character-ernest-and-sally-belly",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Borgrim Deathhammer",
+      "slug": "character-borgrim-deathhammer",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Tasha #2 (Warrior Tasha) / Tasha #3 (Impulsive Tasha)",
+      "slug": "character-tasha-2-warrior-tasha-tasha-3-impulsive-tasha",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Ari / Aralogos Branford",
+      "slug": "character-ari-aralogos-branford",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Blobby Bjorstrum",
+      "slug": "character-blobby-bjorstrum",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Captain K'her Noálin",
+      "slug": "character-captain-k-her-no-lin",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Catalyst",
+      "slug": "character-catalyst",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Denver",
+      "slug": "character-denver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Doctor Theodore Penfold",
+      "slug": "character-doctor-theodore-penfold",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Dourmal",
+      "slug": "character-dourmal",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Entropy",
+      "slug": "character-entropy",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Fingaerion",
+      "slug": "character-fingaerion",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Gelkorus",
+      "slug": "character-gelkorus",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "General Kegan",
+      "slug": "character-general-kegan",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Henimaru",
+      "slug": "character-henimaru",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Iolo Questgiver",
+      "slug": "character-iolo-questgiver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Jak Singleton",
+      "slug": "character-jak-singleton",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Karinla",
+      "slug": "character-karinla",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Kazezu (Kaze)",
+      "slug": "character-kazezu-kaze",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Libra",
+      "slug": "character-libra",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Mad Marina",
+      "slug": "character-mad-marina",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Mara",
+      "slug": "character-mara",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Pan / Panella Branford",
+      "slug": "character-pan-panella-branford",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Pollyanna",
+      "slug": "character-pollyanna",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Prince Hermes",
+      "slug": "character-prince-hermes",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Princess Kiwistafel Questgiver",
+      "slug": "character-princess-kiwistafel-questgiver",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Queen Aralynn Murderjoy",
+      "slug": "character-queen-aralynn-murderjoy",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Sir Slimon",
+      "slug": "character-sir-slimon",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Snickers the Bumble",
+      "slug": "character-snickers-the-bumble",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Tasha Singleton",
+      "slug": "character-tasha-singleton",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Trista Twinklebottom",
+      "slug": "character-trista-twinklebottom",
+      "sourceFile": "wiki.md",
+      "navSlug": "characters",
+      "includeInNav": false
+    },
+    {
+      "title": "Locations",
+      "slug": "locations",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": true
+    },
+    {
+      "title": "Temple of the Player",
+      "slug": "location-temple-of-the-player",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Webwood Forest",
+      "slug": "location-webwood-forest",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Slimewater / Slime's Row",
+      "slug": "location-slimewater-slime-s-row",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Belly Acres Farm",
+      "slug": "location-belly-acres-farm",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Laundry Mountain",
+      "slug": "location-laundry-mountain",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Dragonholm",
+      "slug": "location-dragonholm",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Gothmër",
+      "slug": "location-gothm-r",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Bunny Grotto",
+      "slug": "location-bunny-grotto",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Spiral Tower",
+      "slug": "location-spiral-tower",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Aberystwyth",
+      "slug": "location-aberystwyth",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Adreála",
+      "slug": "location-adre-la",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Bastion",
+      "slug": "location-bastion",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Belcross Express",
+      "slug": "location-belcross-express",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Bog of Most Likely Death",
+      "slug": "location-bog-of-most-likely-death",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Bray",
+      "slug": "location-bray",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Brightwind City",
+      "slug": "location-brightwind-city",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Brightwind Keep",
+      "slug": "location-brightwind-keep",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Dea Latis",
+      "slug": "location-dea-latis",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Hallowed Chapel",
+      "slug": "location-hallowed-chapel",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Hidden Smog Ninja Village",
+      "slug": "location-hidden-smog-ninja-village",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Ice Cream Palace",
+      "slug": "location-ice-cream-palace",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Ironfall",
+      "slug": "location-ironfall",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "McBreakfast Sandwiches",
+      "slug": "location-mcbreakfast-sandwiches",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Mines of Bahg Taldur",
+      "slug": "location-mines-of-bahg-taldur",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Questgivria",
+      "slug": "location-questgivria",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Slimewater",
+      "slug": "location-slimewater",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Slime's Row",
+      "slug": "location-slime-s-row",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Wilmarth",
+      "slug": "location-wilmarth",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Wombat Island",
+      "slug": "location-wombat-island",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Zhakara",
+      "slug": "location-zhakara",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Etheria",
+      "slug": "location-etheria",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Brightwind Eastern Gate and Wharf",
+      "slug": "location-brightwind-eastern-gate-and-wharf",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "The Irritating Owl Inn",
+      "slug": "location-the-irritating-owl-inn",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Aldrige",
+      "slug": "location-aldrige",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "The Selkie's Tear",
+      "slug": "location-the-selkie-s-tear",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Tir na nOg / The Undying Lands",
+      "slug": "location-tir-na-nog-the-undying-lands",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Elanweer",
+      "slug": "location-elanweer",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Save-Point Cage at McBreakfast Sandwiches",
+      "slug": "location-save-point-cage-at-mcbreakfast-sandwiches",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Penfold's Underground Lab",
+      "slug": "location-penfold-s-underground-lab",
+      "sourceFile": "wiki.md",
+      "navSlug": "locations",
+      "includeInNav": false
+    },
+    {
+      "title": "Spells",
+      "slug": "spells",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": true
+    },
+    {
+      "title": "Cleanse",
+      "slug": "spell-cleanse",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Charm Person",
+      "slug": "spell-charm-person",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Cron'x Lux",
+      "slug": "spell-cron-x-lux",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Cron'x Mortis",
+      "slug": "spell-cron-x-mortis",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Explosion Array",
+      "slug": "spell-explosion-array",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Fireball",
+      "slug": "spell-fireball",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Fire Line (aim assist)",
+      "slug": "spell-fire-line-aim-assist",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Firestorm",
+      "slug": "spell-firestorm",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Kamehameha-style AOE fireball",
+      "slug": "spell-kamehameha-style-aoe-fireball",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Magnification spell",
+      "slug": "spell-magnification-spell",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Tempest",
+      "slug": "spell-tempest",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Tétha Lishkâ",
+      "slug": "spell-t-tha-lishk",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Tsunami",
+      "slug": "spell-tsunami",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Vine / Bind spell",
+      "slug": "spell-vine-bind-spell",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Fraisha ul",
+      "slug": "spell-fraisha-ul",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Fraisha á Krâllinísh",
+      "slug": "spell-fraisha-kr-llin-sh",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Gravity-assisted safe landing spell",
+      "slug": "spell-gravity-assisted-safe-landing-spell",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Greater Charm Person",
+      "slug": "spell-greater-charm-person",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Reflect",
+      "slug": "spell-reflect",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Sleep",
+      "slug": "spell-sleep",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Warp",
+      "slug": "spell-warp",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Weather Shield",
+      "slug": "spell-weather-shield",
+      "sourceFile": "wiki.md",
+      "navSlug": "spells",
+      "includeInNav": false
+    },
+    {
+      "title": "Skills",
+      "slug": "skills",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": true
+    },
+    {
+      "title": "Active Tracking",
+      "slug": "skill-active-tracking",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Create Bacon",
+      "slug": "skill-create-bacon",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Zenkai Boost",
+      "slug": "skill-zenkai-boost",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Lament of the Kumquat",
+      "slug": "skill-lament-of-the-kumquat",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Measure of Entropy",
+      "slug": "skill-measure-of-entropy",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Shadow Clone",
+      "slug": "skill-shadow-clone",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Chinese Language",
+      "slug": "skill-chinese-language",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Dodge",
+      "slug": "skill-dodge",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Bullet Time",
+      "slug": "skill-bullet-time",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Bullshit Artist",
+      "slug": "skill-bullshit-artist",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Climb",
+      "slug": "skill-climb",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Double Jump",
+      "slug": "skill-double-jump",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Enhanced Respiration",
+      "slug": "skill-enhanced-respiration",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Enhanced Use",
+      "slug": "skill-enhanced-use",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Gravity Shift",
+      "slug": "skill-gravity-shift",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Gunblade Weapons",
+      "slug": "skill-gunblade-weapons",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Jump",
+      "slug": "skill-jump",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Legal Beagle",
+      "slug": "skill-legal-beagle",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Memory Siphon",
+      "slug": "skill-memory-siphon",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Numb Self",
+      "slug": "skill-numb-self",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Resist Sleep",
+      "slug": "skill-resist-sleep",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Scan",
+      "slug": "skill-scan",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Spear Weapons",
+      "slug": "skill-spear-weapons",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Spell Design",
+      "slug": "skill-spell-design",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Sprint",
+      "slug": "skill-sprint",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Stat Shuffle",
+      "slug": "skill-stat-shuffle",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Steal",
+      "slug": "skill-steal",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Taunt",
+      "slug": "skill-taunt",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "To the Pain",
+      "slug": "skill-to-the-pain",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Wall Climb",
+      "slug": "skill-wall-climb",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Warp",
+      "slug": "skill-warp",
+      "sourceFile": "wiki.md",
+      "navSlug": "skills",
+      "includeInNav": false
+    },
+    {
+      "title": "Classes",
+      "slug": "classes",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": true
+    },
+    {
+      "title": "Chemist",
+      "slug": "class-chemist",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Couch Potato",
+      "slug": "class-couch-potato",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Fighter",
+      "slug": "class-fighter",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Hunter",
+      "slug": "class-hunter",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Mage",
+      "slug": "class-mage",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Ninja",
+      "slug": "class-ninja",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Paladin",
+      "slug": "class-paladin",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Pirate",
+      "slug": "class-pirate",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Pugilist",
+      "slug": "class-pugilist",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Sage",
+      "slug": "class-sage",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Samurai",
+      "slug": "class-samurai",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Scanmaster",
+      "slug": "class-scanmaster",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Summoner",
+      "slug": "class-summoner",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Swashbuckler",
+      "slug": "class-swashbuckler",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Thief",
+      "slug": "class-thief",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Time Mage",
+      "slug": "class-time-mage",
+      "sourceFile": "wiki.md",
+      "navSlug": "classes",
+      "includeInNav": false
+    },
+    {
+      "title": "Notable Quotes",
+      "slug": "notable-quotes",
+      "sourceFile": "wiki.md",
+      "navSlug": "notable-quotes",
+      "includeInNav": true
+    },
+    {
+      "title": "Concepts & Lore",
+      "slug": "concepts-lore",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": true
+    },
+    {
+      "title": "Amusement index and couch-potato learning",
+      "slug": "concept-amusement-index-and-couch-potato-learning",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Gunblade mechanics",
+      "slug": "concept-gunblade-mechanics",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Spell programming and the API manual",
+      "slug": "concept-spell-programming-and-the-api-manual",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Mana purification and chakra points",
+      "slug": "concept-mana-purification-and-chakra-points",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Leveling system",
+      "slug": "concept-leveling-system",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Stat Shuffle",
+      "slug": "concept-stat-shuffle",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Authoritative, reflective, and derived stats",
+      "slug": "concept-authoritative-reflective-and-derived-stats",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Countdown / menu clock",
+      "slug": "concept-countdown-menu-clock",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Elemental orbs and orb bearers",
+      "slug": "concept-elemental-orbs-and-orb-bearers",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Elemental orbs as villain generators",
+      "slug": "concept-elemental-orbs-as-villain-generators",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Entropy's contract and the Third Age",
+      "slug": "concept-entropy-s-contract-and-the-third-age",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Ethereal mist and aire",
+      "slug": "concept-ethereal-mist-and-aire",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Figments",
+      "slug": "concept-figments",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "First registration locks the body template",
+      "slug": "concept-first-registration-locks-the-body-template",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Hallowed Chapel",
+      "slug": "concept-hallowed-chapel",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Human-to-elf body transfer",
+      "slug": "concept-human-to-elf-body-transfer",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Orb of Life and the save-point network",
+      "slug": "concept-orb-of-life-and-the-save-point-network",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Orb-user XP suppression",
+      "slug": "concept-orb-user-xp-suppression",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Personality-stat variance on resurrection",
+      "slug": "concept-personality-stat-variance-on-resurrection",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Players",
+      "slug": "concept-players",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Proxy war between Zhakara and Questgivria",
+      "slug": "concept-proxy-war-between-zhakara-and-questgivria",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Resurrection can change the self",
+      "slug": "concept-resurrection-can-change-the-self",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Resurrection-driven personality change",
+      "slug": "concept-resurrection-driven-personality-change",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Save points and respawn mechanics",
+      "slug": "concept-save-points-and-respawn-mechanics",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Save-point exploitation and caging",
+      "slug": "concept-save-point-exploitation-and-caging",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Scanmaster sensory access",
+      "slug": "concept-scanmaster-sensory-access",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Spell programming",
+      "slug": "concept-spell-programming",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Subclass stat retention",
+      "slug": "concept-subclass-stat-retention",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Subjective time acceleration",
+      "slug": "concept-subjective-time-acceleration",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Summoner age limit",
+      "slug": "concept-summoner-age-limit",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Town ownership interface",
+      "slug": "concept-town-ownership-interface",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Zhakaran anti-mastery law",
+      "slug": "concept-zhakaran-anti-mastery-law",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Zhakaran slave leveling",
+      "slug": "concept-zhakaran-slave-leveling",
+      "sourceFile": "wiki.md",
+      "navSlug": "concepts-lore",
+      "includeInNav": false
+    },
+    {
+      "title": "Races",
+      "slug": "races",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": true
+    },
+    {
+      "title": "Cait Sith",
+      "slug": "race-cait-sith",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Cat-people",
+      "slug": "race-cat-people",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Dark Elf",
+      "slug": "race-dark-elf",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Dragon",
+      "slug": "race-dragon",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Dwarf",
+      "slug": "race-dwarf",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Elf",
+      "slug": "race-elf",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Fairy",
+      "slug": "race-fairy",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Gnome",
+      "slug": "race-gnome",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Human",
+      "slug": "race-human",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Slime",
+      "slug": "race-slime",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Spiderfolk",
+      "slug": "race-spiderfolk",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Toad-person",
+      "slug": "race-toad-person",
+      "sourceFile": "wiki.md",
+      "navSlug": "races",
+      "includeInNav": false
+    },
+    {
+      "title": "Couch Potato Crisis wiki draft",
+      "slug": "crisis-wiki-draft",
+      "sourceFile": "crisis_wiki_draft.md",
+      "navSlug": "crisis-wiki-draft",
+      "includeInNav": true
+    },
+    {
+      "title": "Couch Potato Chronicles local wiki site",
+      "slug": "readme-local-site",
+      "sourceFile": "README-local-site.md",
+      "navSlug": "readme-local-site",
+      "includeInNav": false
+    },
+    {
+      "title": "Couch Potato Chronicles – Character Relationship Chart",
+      "slug": "relationships",
+      "sourceFile": "relationships.md",
+      "navSlug": "relationships",
+      "includeInNav": true
+    },
+    {
+      "title": "Timeline",
+      "slug": "timeline",
+      "sourceFile": "timeline.md",
+      "navSlug": "timeline",
+      "includeInNav": true
+    }
+  ]
+}
